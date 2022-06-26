@@ -16,4 +16,4 @@
 ##### 
 
 ### In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
-##### Overall, the whole project was a new experience and I have gained a better understanding of Android Studio and the mobile app design process. The components within the project that I had more knowledge in was creating classes for the different functions within the app. 
+##### Overall, the whole project was a new experience and I have gained a better understanding of Android Studio and the mobile app design process. The components within the project that I had more knowledge in was creating classes for the different functions within the app. With extensive research, I was able to incorporate the best industry techniques within my code. 
